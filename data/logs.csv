@@ -1,0 +1,6 @@
+ip,failed_logins,requests,port_scans,label
+192.168.1.10,10,200,5,attack
+10.0.0.2,0,20,0,normal
+172.16.0.5,8,180,3,attack
+192.168.1.20,1,15,0,normal
+10.0.0.9,12,300,8,attack
